@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-![](https://visitcount.itsvg.in/api?id=Moon1Knight&icon=5&color=11)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Moon1Knight&icon=5&color=11)
+![](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
