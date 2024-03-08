@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 # 💫 About Me:
 🌱 I’m currently learning MERN <br><br>💬 Ask me about React , Express<br><br>📍  How to reach me naninitesh2003@gmail.com<br><br>⚡ Fun fact I'm a Very good at drawing Anime characters
 
@@ -41,6 +39,6 @@ Here are some ideas to get you started:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Moon1Knight&icon=5&color=11)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Moon1Knight&icon=5&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
